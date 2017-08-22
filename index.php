@@ -39,7 +39,7 @@ function get_client_ip_server() {
     return $ipaddress;
 }
     
-get_client_ip_server();
+echo get_client_ip_server();
 
 
 echo '<button><a href="#?myip=$IP">Press Here</a></button>';
