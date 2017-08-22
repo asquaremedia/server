@@ -41,7 +41,7 @@ function get_client_ip_server() {
     
 echo get_client_ip_server();
     
-$isp = geoip_isp_by_name('www.example.com');
+$isp = geoip_isp_by_name('www.a-square-media.com');
 if ($isp) {
     echo 'This host IP is from ISP: ' . $isp;
 }
