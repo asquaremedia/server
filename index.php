@@ -1,4 +1,4 @@
-ls<html>
+<html>
 
 <h1> SERVER STATUS </h1>
 
