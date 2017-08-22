@@ -20,7 +20,7 @@ echo "<b>CPU Temp</b>";
     
 
 
-echo '<button><a href="#?myip=$IP">Press Here</a></button>';
+//echo '<button><a href="#?myip=$IP">Press Here</a></button>';
 
 ?>
 
